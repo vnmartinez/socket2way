@@ -1,6 +1,7 @@
 # Ignore build output
 bin/
 obj/
+*.rar
 
 # Ignore NuGet packages
 *.nupkg
